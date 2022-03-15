@@ -1,4 +1,4 @@
 # ubc-arc-guides
-Guides for Sockeye and Chinook (including Reads Database)
+Guides for Chinook (including Reads Database) and Sockeye 
 
 https://github.com/KeelingLabUBC/ubc-arc-guides/wiki
